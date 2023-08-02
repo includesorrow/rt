@@ -14,9 +14,8 @@
 
 ### 프로젝트 아키텍처
 
-https://user-images.githubusercontent.com/35910177/257747647-ea1d8cf4-acad-4e95-bd1b-cf2fb95e6359.png
+<img width="1054" alt="스크린샷 2023-08-02 오후 5 16 50" src="https://github.com/includesorrow/rt/assets/35910177/4db36877-45db-4ff2-91da-e2e82dfdb0bb">
 
-(!https://user-images.githubusercontent.com/35910177/257747647-ea1d8cf4-acad-4e95-bd1b-cf2fb95e6359.png)
 
 ### 직접 구현했던 목록
 
