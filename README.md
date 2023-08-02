@@ -17,3 +17,6 @@
 
 ### 데이터 수집
 
+- 전체 아키텍처
+![image](https://github.com/includesorrow/rt/assets/35910177/7ad3aba6-d5bb-44bf-92b1-f5da052adb05)
+
