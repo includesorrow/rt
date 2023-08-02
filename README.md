@@ -14,7 +14,7 @@
 
 ### 프로젝트 아키텍처
 
-
+https://user-images.githubusercontent.com/35910177/257747647-ea1d8cf4-acad-4e95-bd1b-cf2fb95e6359.png
 
 (!https://user-images.githubusercontent.com/35910177/257747647-ea1d8cf4-acad-4e95-bd1b-cf2fb95e6359.png)
 
