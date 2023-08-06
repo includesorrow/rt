@@ -17,7 +17,7 @@
 - Python3
 - AWS
 - Airlfow, EKS, Kafka
-
+- github
 
 
 ### 직접 작업했던 목록
