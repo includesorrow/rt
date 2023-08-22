@@ -46,7 +46,6 @@
 - 작업 시 이슈가 생겼던 부분에 대해 문서화
 <img width="1189" alt="image" src="https://github.com/includesorrow/rt/assets/35910177/fb571a1c-0f5b-4530-8b8c-70b3d1574be1">
 
-![스크린샷 2023-08-08 오후 7 54 44](https://github.com/includesorrow/rt/assets/35910177/48a42065-a399-4684-8a4d-aaabdd100105)
 - 어떤 이슈든, 아니면 모르는 것이든 일단 적고 필요할때마다 다시 읽습니다.
 
 ---
